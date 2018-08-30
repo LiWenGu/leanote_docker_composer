@@ -32,3 +32,4 @@
 2018/08/28 05:10:55 [alert] 1#1: unlink() "/etc/nginx/nginx.pid" failed (16: Device or resource busy)
 2018/08/28 05:15:17 [alert] 1#1: unlink() "/etc/nginx/nginx.pid" failed (16: Resource busy)
 2018/08/28 10:25:43 [alert] 1#1: unlink() "/etc/nginx/nginx.pid" failed (16: Resource busy)
+2018/08/30 15:00:01 [alert] 1#1: unlink() "/etc/nginx/nginx.pid" failed (16: Resource busy)
